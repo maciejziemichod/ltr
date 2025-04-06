@@ -17,6 +17,8 @@ Alternatywnie wartości monetarne można by przechowywać w najmniejszej jednost
 
 ## 2. Napisz kod(+testy), który wypełni brakujące wartości dla obu encji mając dany Order z OrderItemami (podane net_price i quantity) oraz wysokość podatku w %. Podatek dla pojedynczego OrderItema powinien być liczony od wartości net_total.
 
+Kod uzupełniający brakujące wartości dla Order i OrderItem znajduje się w pliku src/services/orderCalculator.ts
+
 Aby odpalić testy należy użyć następujących komend:
 
 ```
